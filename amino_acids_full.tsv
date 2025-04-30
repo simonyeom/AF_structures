@@ -1,0 +1,70 @@
+Code	Symbol	Smiles	Name	Weight
+LA	ALA	CC(C(=O)O)N	L-Alanine	89.09
+LC	CYS	C(C(S)C(=O)O)N	L-Cysteine	121.15
+LD	ASP	NC(CC(=O)O)C(=O)O	L-Aspartic Acid	133.1
+LE	GLU	NC(CCC(=O)O)C(=O)O	L-Glutamic Acid	147.13
+LF	PHE	NC(CCC1=CC=CC=C1)C(=O)O	L-Phenylalanine	165.19
+LG	GLY	C(C(=O)O)N	L-Glycine	75.07
+LH	HIS	NC(CC1C=NC=N1)C(=O)O	L-Histidine	155.15
+LI	ILE	CC(C)C(C(=O)O)N	L-Isoleucine	131.17
+LK	LYS	NCCCC[C(C(=O)O)N]	L-Lysine	146.19
+LL	LEU	CC(C)CC(C(=O)O)N	L-Leucine	131.17
+LM	MET	CC(C)CC(C(=O)O)N	L-Methionine	149.21
+LN	ASN	NC(C(=O)N)C(=O)O	L-Asparagine	132.12
+LP	PRO	C1CC[NH2][C@@H](C(=O)O)C1	L-Proline	115.13
+LQ	GLN	NC(CCC(=O)N)C(=O)O	L-Glutamine	146.14
+LR	ARG	NCCC[C(C(=O)O)N]	L-Arginine	174.2
+LS	SER	NC(CO)C(=O)O	L-Serine	105.09
+LT	THR	C[C@H](CO)N	L-Threonine	119.12
+LV	VAL	CC(C)C(C(=O)O)N	L-Valine	117.15
+LW	TRP	N[C@@H](Cc1c2ccccc2[nH]1)C(=O)O	L-Tryptophan	204.23
+LY	TYR	CC[C@@H](C(=O)O)N)C(=O)O	L-Tyrosine	181.19
+DA	ALA	N[C@@H](C)C(=O)O	D-Alanine	89.09
+DC	CYS	N[C@@H](CS)C(=O)O	D-Cysteine	121.15
+DD	ASP	N[C@@H](CC(=O)O)C(=O)O	D-Aspartic Acid	133.1
+DE	GLU	N[C@@H](CCC(=O)O)C(=O)O	D-Glutamic Acid	147.13
+DF	PHE	N[C@@H](Cc1ccccc1)C(=O)O	D-Phenylalanine	165.19
+DG	GLY	NCC(=O)O	D-Glycine	75.07
+DH	HIS	N[C@@H](Cc1c[nH]cn1)C(=O)O	D-Histidine	155.15
+DI	ILE	N[C@@H](C(C)CC)C(=O)O	D-Isoleucine	131.17
+DK	LYS	N[C@@H](CCCCN)C(=O)O	D-Lysine	146.19
+DL	LEU	N[C@@H](CC(C)C)C(=O)O	D-Leucine	131.17
+DM	MET	N[C@@H](CCSC)C(=O)O	D-Methionine	149.21
+DN	ASN	N[C@@H](CC(N)=O)C(=O)O	D-Asparagine	132.12
+DP	PRO	N1[C@@H](CCCC1)C(=O)O	D-Proline	115.13
+DQ	GLN	N[C@@H](CCC(N)=O)C(=O)O	D-Glutamine	146.14
+DR	ARG	N[C@@H](CCCC(N)=N)C(=O)O	D-Arginine	174.2
+DS	SER	N[C@@H](CO)C(=O)O	D-Serine	105.09
+DT	THR	N[C@@H](C(O)C)C(=O)O	D-Threonine	119.12
+DV	VAL	N[C@@H](C(C)C)C(=O)O	D-Valine	117.15
+DW	TRP	N[C@@H](Cc1c2ccccc2[nH]1)C(=O)O	D-Tryptophan	204.23
+DY	TYR	N[C@@H](Cc1ccc(O)cc1)C(=O)O	D-Tyrosine	181.19
+DPG	PHG	C1=CC=C(C=C1)C(N)C(=O)O	D-Phenylglycine	165.19
+LNv	NVA	CCC[C@H](C(=O)O)N	L-Norvaline	117.15
+LAH	AHA	CCCCC[C@H](C(=O)O)N	L-2-Aminoheptanoic acid	143.24
+OTt	TBT	CC(C)(C)OC[C@@H](C(=O)O)N	O-tert-Butyl-L-threonine	147.19
+DAT	ATT	CC(CO)(C(=O)O)N	D-allo-Threonine	119.12
+LCx	CHA	C1CCC(CC1)[C@H](C(=O)O)N	L-Cyclohexylalanine	155.22
+5HT	HTP	C1=NC2=C(C=C1O)C(=CC=C2)[C@@H](C(=O)O)N	5-Hydroxytryptophan	220.23
+AAD	ADA	O=C(O)[C@@H](N)CC12CC3CC(C1)CC(C2)C3	α-Aminoadamantane-1-acetic acid	189.29
+BHL	HLE	CC[C@H](CC(C)C)C(=O)O	β-Homoleucine	145.21
+BHP	PAH	O=C(O)CC[C@H](N)C1=CC=CC=C1	β-Homophenylalanine	179.22
+GAB	GBA	O=C(O)CCC[NH2]	γ-Aminobutyric acid	103.12
+AAM	AMP	CC(CC)[C@H](N)C(=O)O	L-2-amino-3-methylpentanoic acid	131.17
+DMA	MAP	O=C(O)[C@@H](N(C)C(C(=O)O)	N-methyl-D-aspartic acid	133.1
+3CT	CTY	O=C(O)[C@H](N)CC1=CC(=C(C=C1O)Cl	3-Chlorotyrosine	197.64
+CMA	CAL	O=C(O)[C@H](N)C(Cl)(C)	Chloromethyl alanine	135.58
+FAB	FCA	O=C(O)c1ccccc1COC(=O)C1CCN	Fmoc-4-aminobutyric acid	267.79
+BOC	LYO	CC(C)(C)OC(=O)NCCCC[C@@H](C(=O)O)N	Boc-Lys-OH	223.31
+MDG	GMD	OC(=O)[C@@H](CC(=O)O)C(C)N	3-Methyl-D-glutamic acid	161.17
+FTY	DMT	C1C=CC(=O)[C@@H](N[C@H]([C@H](OCC1)C)C)CC=O	Fmoc-3,5-dimethyl-L-tyrosine	339.38
+DHP	HAO	CC(N)C(=O)O	H-D-Homophenylalanine-OH	165.19
+LTL	TLE	CC(C)(C)C(N)C(=O)O	L-tert-Leucine	131.17
+DPH	PNH	NC(=O)[C@H](N)CC1=CC=CC=C1	H-D-Phe(4-NH2)-OH	180.22
+HKL	LYH	CC(C)(C)OC(=O)NCCC[C@@H](C(=O)O)N	H-Lys(Boc)-OH	223.31
+NTY	MTY	C1=CC=C(C=C1C[C@@H](N)C(=O)O)O	N-Me-L-Tyrosine	195.22
+HLK	MTT	C1=CC=C(C=C1)C=CC=CC=O	H-Lys(Mtt)-OH	361.56
+HLK	ZLY	C1=CC=C(C=C1)CC(C(=O)O)[C@@H](N(N)=O)[C@@H](C(=O)O)N	H-Lys(Z)-OH	303.35
+APP	PAP	NC1=CN=CC=C1C(=O)O	2-Amino-3-pyridine-3-propionic Acid	138.14
+ELA	ALE	CC(C)(C(=O)NO)C(=O)O	ethylene(L-alanine)-OH	185.22
+DML	DIN	CC(C)[C@@H](C(NC)CC)C(=O)O	N,N-Dimethyl-L-leucine	145.2
